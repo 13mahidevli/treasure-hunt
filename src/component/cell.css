@@ -1,0 +1,18 @@
+
+.cell {
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+    display: inline-block;
+    background-color: #ddd;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  .cell.selected{
+    background-color: yellow;
+  }
+  .cell.won{
+    background-color: #aa146e;
+  }
