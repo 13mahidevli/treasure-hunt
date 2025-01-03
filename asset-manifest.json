@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-treasure-hunt/static/css/main.a00bd68e.css",
+    "main.js": "/react-treasure-hunt/static/js/main.9a51b674.js",
+    "static/js/488.383c72f8.chunk.js": "/react-treasure-hunt/static/js/488.383c72f8.chunk.js",
+    "index.html": "/react-treasure-hunt/index.html",
+    "main.a00bd68e.css.map": "/react-treasure-hunt/static/css/main.a00bd68e.css.map",
+    "main.9a51b674.js.map": "/react-treasure-hunt/static/js/main.9a51b674.js.map",
+    "488.383c72f8.chunk.js.map": "/react-treasure-hunt/static/js/488.383c72f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a00bd68e.css",
+    "static/js/main.9a51b674.js"
+  ]
+}
