@@ -30,4 +30,16 @@
   .cell.won{
     background-color: #aa146e;
   }
-
+.choosen{
+  width: 55px;
+    height: 55px;
+    margin: 2px;
+    border-radius: 50%;
+    border: none;
+    display: inline-block;
+    background-color:rgb(12, 18, 37);
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+}
