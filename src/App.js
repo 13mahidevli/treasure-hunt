@@ -165,19 +165,18 @@ export default function App() {
         ))}
       </div>
       <div style={{ display: display }} className="hint-given">
+        <div
+          style={{ display: display }}
+          onClick={remove}
+          className="remove-hintbox"
+        >
+          ❌
+        </div>
         ***HINT***
-      </div>
-      <div
-        style={{ display: display }}
-        onClick={remove}
-        className="remove-hintbox"
-      >
-        ❌
       </div>
     </div>
   );
 }
-
 
 // import React, { useState, useEffect } from "react";
 // import "./App.css";
