@@ -120,12 +120,12 @@ export default function App() {
   return (
     <div className="box">
       <div style={{ filter: `blur(${boxblur}px)` }} className="blockone">
-        <h1 style={{ color: color }}>{mess}</h1>
+        <p className="mess" style={{ color: color }}>{mess}</p>
         <div className="instruction">
           <button onClick={showhint} className="hintbox">
             𝐡𝐢𝐧𝐭!!
           </button>
-          <h1 className="my-3">Instructions</h1>
+          <h1>Instructions</h1>
           𝐓𝐡𝐞𝐫𝐞 𝐚𝐫𝐞 𝟭𝟬𝟬 𝐛𝐮𝐛𝐛𝐥𝐞𝐬 𝐨𝐧 𝐭𝐡𝐞 𝐬𝐜𝐫𝐞𝐞𝐧... <br></br> 𝐈𝐟 𝐲𝐨𝐮 𝐜𝐥𝐢𝐜𝐤 𝐭𝐡𝐞
           𝐫𝐢𝐠𝐡𝐭 𝐛𝐮𝐛𝐛𝐥𝐞 𝐲𝐨𝐮 𝐮𝐧𝐥𝐨𝐜𝐤 𝐚 𝐬𝐩𝐞𝐜𝐢𝐚𝐥 𝐤𝐞𝐲(🗝️) 𝐭𝐨 𝐭𝐡𝐞 𝐧𝐞𝐱𝐭 𝐩𝐮𝐳𝐳𝐥𝐞.{" "}
           <br></br> (𝐁𝐮𝐭 𝐭𝐡𝐞𝐫𝐞 𝐢𝐬 𝐚 𝐜𝐚𝐭𝐜𝐡)<br></br> ***𝐘𝐨𝐮 𝐡𝐚𝐯𝐞 𝟏𝟏 𝐜𝐡𝐚𝐧𝐜𝐞𝐬***
